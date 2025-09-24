@@ -1,7 +1,9 @@
 
 # Virtual Cat
 
-This is a CLI tamagotchi game called Virtual Cat. Upon starting the game a virtual cat is born and can be given a name. The cat is born with default stats for its hunger and its weight which can be changed throughout the game by using the options in the main menu.  The options in the game include:
+This is a CLI tamagotchi game called Virtual Cat. Upon starting the game a virtual cat is born and can be given a name. The cat is born with default stats for its hunger and its weight which can be changed throughout the game by using the options in the main menu.  
+
+The options in the game include:
     
     0. Exit Game
     1. Help
@@ -51,6 +53,8 @@ Show Stats option output
 
 ## Installation
 
-The project uses colorama, a Python module, in order to have different colors of the text in the terminal. Install this dependancy by running the command:
+The project uses colorama, a Python module, in order to have different colors of the text in the terminal. 
+
+Install this dependancy by running the command:
 
     pip install colorama
